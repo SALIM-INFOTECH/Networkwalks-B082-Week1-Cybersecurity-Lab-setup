@@ -3,6 +3,7 @@
 Building an isolated virtual lab for penetration testing and ethical hacking practice
            
 📌 Project Overview
+
 This project focuses on setting up a virtual cybersecurity and penetration-testing laboratory using VirtualBox and Kali Linux.
 
 The purpose of the lab is to create a controlled environment where cybersecurity tools, network scanning, reconnaissance, vulnerability assessment, and other security-testing activities can be performed safely and repeatedly.
@@ -10,6 +11,7 @@ The purpose of the lab is to create a controlled environment where cybersecurity
 The lab is configured on a private virtual network so that additional machines can be added later and used as targets for authorized security testing.
 
 🎯 Objectives
+
 The main objectives of this project are to:
 
 Install and configure VirtualBox.
@@ -33,8 +35,11 @@ Packet analysis
 Web security testing
 Exploitation practice
 Security-tool experimentation
+
 ⚠️ Important: This laboratory must only be used for systems that you own or have explicit permission to test. Do not use the lab or its tools to attack unauthorized systems.
+
 ⚙️ Lab Configuration
+
 🧩 Component	⚙️ Configuration
 🧰 Hypervisor	VirtualBox 7.2
 🐉 Security OS	Kali Linux 2026.1
